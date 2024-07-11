@@ -1,0 +1,23 @@
+[33mcommit 9d9ff3f59d9f1dbe39c8a2416f6f942c1a914c36[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: longvu <tranlongvu007@gmail.com>
+Date:   Thu Jul 11 09:54:49 2024 +0700
+
+    2-gaussian-noise-complete
+
+[33mcommit 9559ecb5ab76340a97605da151e50880b98c93ef[m
+Author: longvu <tranlongvu007@gmail.com>
+Date:   Thu Jul 11 09:05:10 2024 +0700
+
+    completed sharpness
+
+[33mcommit f44e50ca7e761fc2c541e389a65b73b76a30c27a[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: longvu <tranlongvu007@gmail.com>
+Date:   Thu Jul 11 08:15:25 2024 +0700
+
+    first commit - sharpness done
+
+[33mcommit 4cc14876f178299258d35c69215ef71640cac6e3[m
+Author: Tran Long Vu <tranlongvu007@gmail.com>
+Date:   Thu Jul 11 08:13:48 2024 +0700
+
+    Initial commit
